@@ -39,7 +39,7 @@ We support setting of Selector, breakpoints, flexgrid, states, any CSS propertie
 ```html
 <head>
     <!--Only add this and data-var's go !-->
-    <script src="https://cdn.jsdelivr.net/gh/gilles-ossin/MOD-CSS-4.x@main/dist/mod-4.x.min.js">
+    <script src="https://cdn.jsdelivr.net/gh/gilles-ossin/MOD-CSS@main/dist/mod-css.min.js">
 </head>
 ```
 
