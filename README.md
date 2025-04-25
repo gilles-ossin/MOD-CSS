@@ -22,7 +22,7 @@ We support setting of Selector, breakpoints, flexgrid, states, any CSS propertie
 <hr style="background:transparent">
 <h2 style="margin-bottom:10px">Summary</h2>
 
-* [Installation](#inst)
+* [Install](#inst)
 * [How to use it](#how)
 * [Define quickly any selector](#sel)
 * [Standards breakpoints for reponsiveness](#brkp)
@@ -34,7 +34,7 @@ We support setting of Selector, breakpoints, flexgrid, states, any CSS propertie
 
 
 <hr style="background:transparent">
-<h2 style="margin-bottom:10px" id="inst">Installation</h2>
+<h2 style="margin-bottom:10px" id="inst">Install</h2>
 
 ```html
 <head>
